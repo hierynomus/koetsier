@@ -27,7 +27,7 @@ class Score(val score : Int, val foutBeantwoord : List[Vraag])
 object Examen {
   def parse (examen : Elem) = {
     val vragen = (examen \\ "vraag").map(Vraag.parse(_))
-    new Examen(examen.text, vragen.toList)
+    new Examen(examen.child.toList.head.text, vragen.toList)
   }
 }
 
