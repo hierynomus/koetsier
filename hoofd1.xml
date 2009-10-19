@@ -1,0 +1,834 @@
+<?xml version="1.0" ?>
+<hoofdstuk id="1" nrvrg="83">Het Paard
+  <vraag id="1" nrant="3">
+    <vraagstelling>Bij het beoordelen van het exterieur van een paard worden globaal drie delen onderscheiden. Hoe noemen we deze delen?</vraagstelling>
+    <antwoord id="a" score="1">De voorhand, de middenhand, de achterhand</antwoord>
+    <antwoord id="b" score="0">De bovenhand, de middenhand, de onderhand</antwoord>
+    <antwoord id="c" score="0">De voorhand, de tussenhand, de achterhand</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>12</pagina>
+    <regel>20</regel>
+    <afbeelding>R_000_95</afbeelding>
+  </vraag>
+  <vraag id="2" nrant="3">
+    <vraagstelling>Welk lichaamsdeel behoort tot de achterhand?</vraagstelling>
+    <antwoord id="a" score="1">De croupe</antwoord>
+    <antwoord id="b" score="0">De rug</antwoord>
+    <antwoord id="c" score="0">De lendenen</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>14</pagina>
+    <regel>1</regel>
+    <afbeelding>R_000_96</afbeelding>
+  </vraag>
+  <vraag id="3" nrant="3">
+    <vraagstelling>Welke haarkleur noemt men ook wel roan?</vraagstelling>
+    <antwoord id="a" score="1">Onveranderlijke schimmel</antwoord>
+    <antwoord id="b" score="0">Veranderlijke schimmel</antwoord>
+    <antwoord id="c" score="0">Bont</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>20</pagina>
+    <regel>26</regel>
+    <afbeelding>R_000_81</afbeelding>
+  </vraag>
+  <vraag id="4" nrant="3">
+    <vraagstelling>Wat zijn de meest ontwikkelde zintuigen?</vraagstelling>
+    <antwoord id="a" score="1">De reuk en het gehoor</antwoord>
+    <antwoord id="b" score="0">De reuk en de smaak</antwoord>
+    <antwoord id="c" score="0">De smaak en het gehoor</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>14</pagina>
+    <regel>26</regel>
+    <afbeelding>R_000_71</afbeelding>
+  </vraag>
+  <vraag id="5" nrant="3">
+    <vraagstelling>In welke 2 soorten worden beengebreken verdeeld?</vraagstelling>
+    <antwoord id="a" score="1">Zachte en harde</antwoord>
+    <antwoord id="b" score="0">Harde en weke</antwoord>
+    <antwoord id="c" score="0">Zachte en weke</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>27</pagina>
+    <regel>30</regel>
+    <afbeelding>R_000_95</afbeelding>
+  </vraag>
+  <vraag id="6" nrant="3">
+    <vraagstelling>Benoem de verschillende delen van een hoefijzer.</vraagstelling>
+    <antwoord id="a" score="1">toon,  rits, schroefgaten,  takken</antwoord>
+    <antwoord id="b" score="0">opzet, kalkoengaten, schroefgaten, verzenen</antwoord>
+    <antwoord id="c" score="0">lip, rits, nagels, steunsels</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>35</pagina>
+    <regel>3</regel>
+    <afbeelding>R_036_02</afbeelding>
+  </vraag>
+  <vraag id="7" nrant="3">
+    <vraagstelling>Wat zijn allemaal onderdelen van de achterhand?</vraagstelling>
+    <antwoord id="a" score="1">Spronggewricht, zitbeen, kruis, schenkel, kogel</antwoord>
+    <antwoord id="b" score="0">Elleboog, kruis, lendenen, boeg, achterknie</antwoord>
+    <antwoord id="c" score="0">Kruis, schoft, rug, lendenen, pijp, staart</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>12</pagina>
+    <regel>20</regel>
+    <afbeelding>R_000_96</afbeelding>
+  </vraag>
+  <vraag id="8" nrant="3">
+    <vraagstelling>Wat is het signalement van een paard?</vraagstelling>
+    <antwoord id="a" score="1">De uiterlijke kenmerken, waar je een paard aan kunt herkennen</antwoord>
+    <antwoord id="b" score="0">Zijn actieve manier van kijken en reageren op zijn omgeving</antwoord>
+    <antwoord id="c" score="0">De benaming van de lichaamsdelen</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>19</pagina>
+    <regel>1</regel>
+    <afbeelding>R_000_95</afbeelding>
+  </vraag>
+  <vraag id="9" nrant="3">
+    <vraagstelling>Hoe kan een bruin paard eruit zien?</vraagstelling>
+    <antwoord id="a" score="1">Bruin met zwarte staart en manen</antwoord>
+    <antwoord id="b" score="0">Bruin met bruine staart en manen</antwoord>
+    <antwoord id="c" score="0">Bruin met heel licht gekleurde staart en manen</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>20</pagina>
+    <regel>21</regel>
+    <afbeelding>R_000_81</afbeelding>
+  </vraag>
+  <vraag id="10" nrant="3">
+    <vraagstelling>Wat is een sneb?</vraagstelling>
+    <antwoord id="a" score="1">Een witte aftekening op de punt van de neus</antwoord>
+    <antwoord id="b" score="0">Een witte aftekening op het voorhoofd</antwoord>
+    <antwoord id="c" score="0">Een witte aftekening op de borst</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>22</pagina>
+    <regel>25</regel>
+    <afbeelding>R_000_81</afbeelding>
+  </vraag>
+  <vraag id="11" nrant="3">
+    <vraagstelling>Wat is toontredersstand?</vraagstelling>
+    <antwoord id="a" score="1">Ondervoeten naar binnen gedraaid</antwoord>
+    <antwoord id="b" score="0">Hoeven ver uit elkaar op de grond</antwoord>
+    <antwoord id="c" score="0">Voorvoeten ver naar voren en achterbenen gestrekt naar achteren</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>25</pagina>
+    <regel>32</regel>
+    <afbeelding>R_000_95</afbeelding>
+  </vraag>
+  <vraag id="12" nrant="3">
+    <vraagstelling>Waarvoor dienen hoefijzers?</vraagstelling>
+    <antwoord id="a" score="1">Ze gaan (onregelmatige) slijtage van de hoef tegen</antwoord>
+    <antwoord id="b" score="0">Ze dienen als steun voor kalkoenen</antwoord>
+    <antwoord id="c" score="0">Ze zorgen ervoor dat het paard minder snel uitglijdt</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>34</pagina>
+    <regel>45</regel>
+    <afbeelding>R_000_08</afbeelding>
+  </vraag>
+  <vraag id="13" nrant="3">
+    <vraagstelling>Hoe kun je een hoestend paard het best verzorgen?</vraagstelling>
+    <antwoord id="a" score="1">Rust en een frisse omgeving</antwoord>
+    <antwoord id="b" score="0">Veel beweging dan komt de hoest goed los</antwoord>
+    <antwoord id="c" score="0">Warme dekens en staldeuren dicht tegen de kou</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>46</pagina>
+    <regel>1</regel>
+    <afbeelding>R_888_09</afbeelding>
+  </vraag>
+  <vraag id="14" nrant="3">
+    <vraagstelling>Wat is de normale temperatuur van een paard?</vraagstelling>
+    <antwoord id="a" score="1">37,5 - 38,3 graden</antwoord>
+    <antwoord id="b" score="0">36,2 - 37,0 graden</antwoord>
+    <antwoord id="c" score="0">38,5 - 39,5 graden</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>45</pagina>
+    <regel>12</regel>
+    <afbeelding>R_888_09</afbeelding>
+  </vraag>
+  <vraag id="15" nrant="3">
+    <vraagstelling>Hoe kun je tetanus voorkomen?</vraagstelling>
+    <antwoord id="a" score="1">Desinfecteren van wonden en 1x per jaar inenten</antwoord>
+    <antwoord id="b" score="0">Diepe wonden direct hechten</antwoord>
+    <antwoord id="c" score="0">Helaas is er niets tegen te doen</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>48</pagina>
+    <regel>1</regel>
+    <afbeelding>R_000_91</afbeelding>
+  </vraag>
+  <vraag id="16" nrant="4">
+    <vraagstelling>Aan welke aandoening denk je als een paard bij inspanning een piepend geluid maakt tijdens de inademing?</vraagstelling>
+    <antwoord id="a" score="1">Cornage</antwoord>
+    <antwoord id="b" score="0">Neusverkoudheid</antwoord>
+    <antwoord id="c" score="0">Allergie</antwoord>
+    <antwoord id="d" score="0">Maandagziekte</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>47</pagina>
+    <regel>14</regel>
+    <afbeelding>R_000_09</afbeelding>
+  </vraag>
+  <vraag id="17" nrant="3">
+    <vraagstelling>Wat is NIET juist?</vraagstelling>
+    <antwoord id="a" score="1">Een dampig paard kun je het beste in een warme stal zetten</antwoord>
+    <antwoord id="b" score="0">Dampigheid is ongeneeslijk, maar lichte arbeid kan</antwoord>
+    <antwoord id="c" score="0">Je voorkomt dampigheid door een ziek, hoestend paard op rust te zetten</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>47</pagina>
+    <regel>1</regel>
+    <afbeelding>R_000_19</afbeelding>
+  </vraag>
+  <vraag id="18" nrant="3">
+    <vraagstelling>Wat is NIET juist?</vraagstelling>
+    <antwoord id="a" score="1">De meeste paarden drinken teveel als ze uit een automatische drinkbak drinken</antwoord>
+    <antwoord id="b" score="0">Een automatische drinkbak heeft als voordeel dat het paard altijd vers drinkwater tot zijn beschikking heeft</antwoord>
+    <antwoord id="c" score="0">Je merkt pas laat als er iets met de drinkbak is waardoor het paard niet kan drinken</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>40</pagina>
+    <regel>32</regel>
+    <afbeelding>R_000_27</afbeelding>
+  </vraag>
+  <vraag id="19" nrant="3">
+    <vraagstelling>Wanneer moet je een paard tegen horzellarven behandelen?</vraagstelling>
+    <antwoord id="a" score="1">In het najaar</antwoord>
+    <antwoord id="b" score="0">Als het paard bulten op zijn rug heeft</antwoord>
+    <antwoord id="c" score="0">Om de twee maanden</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>43</pagina>
+    <regel>9</regel>
+    <afbeelding>R_000_17</afbeelding>
+  </vraag>
+  <vraag id="20" nrant="3">
+    <vraagstelling>Waardoor kan mok ontstaan?</vraagstelling>
+    <antwoord id="a" score="1">Door vervuiling van de kootholte</antwoord>
+    <antwoord id="b" score="0">Door het paard antibiotica te geven</antwoord>
+    <antwoord id="c" score="0">Door te lang op stal staan en te weinig beweging</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>43</pagina>
+    <regel>9</regel>
+    <afbeelding>R_000_42</afbeelding>
+  </vraag>
+  <vraag id="21" nrant="3">
+    <vraagstelling>Wat is maandagziekte?</vraagstelling>
+    <antwoord id="a" score="1">Spierkramp na overmatig eiwitrijk voer</antwoord>
+    <antwoord id="b" score="0">Een vorm van koliek</antwoord>
+    <antwoord id="c" score="0">Lusteloosheid na teveel arbeid</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>49</pagina>
+    <regel>20</regel>
+    <afbeelding>R_888_32</afbeelding>
+  </vraag>
+  <vraag id="22" nrant="3">
+    <vraagstelling>Hoe kun je drukkingen voorkomen?</vraagstelling>
+    <antwoord id="a" score="1">Door goed passend tuig te gebruiken</antwoord>
+    <antwoord id="b" score="0">Door het paard antibiotica te geven</antwoord>
+    <antwoord id="c" score="0">Door de riempjes door de passanten te halen</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>52</pagina>
+    <regel>11</regel>
+    <afbeelding>R_999_33</afbeelding>
+  </vraag>
+  <vraag id="23" nrant="3">
+    <vraagstelling>Wat is de naam voor een scherp voorwerp in de zool van de hoef?</vraagstelling>
+    <antwoord id="a" score="1">Nageltred</antwoord>
+    <antwoord id="b" score="0">Tetanus</antwoord>
+    <antwoord id="c" score="0">Tying up</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>52</pagina>
+    <regel>30</regel>
+    <afbeelding>R_888_33</afbeelding>
+  </vraag>
+  <vraag id="24" nrant="3">
+    <vraagstelling>Waarop kan het eten van mest duiden?</vraagstelling>
+    <antwoord id="a" score="1">Een tekort aan mineralen</antwoord>
+    <antwoord id="b" score="0">Verveling</antwoord>
+    <antwoord id="c" score="0">Jaloezie</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>54</pagina>
+    <regel>10</regel>
+    <afbeelding>R_888_36</afbeelding>
+  </vraag>
+  <vraag id="25" nrant="3">
+    <vraagstelling>Waarom vechten paarden vaak als er een nieuw paard in de wei komt?</vraagstelling>
+    <antwoord id="a" score="1">Kuddegedrag. Ze willen de rangorde bepalen</antwoord>
+    <antwoord id="b" score="0">Paarden zijn het liefst alleen</antwoord>
+    <antwoord id="c" score="0">Ze zijn jaloers omdat de baas nog een paard heeft</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>54</pagina>
+    <regel>30</regel>
+    <afbeelding>R_888_38</afbeelding>
+  </vraag>
+  <vraag id="26" nrant="3">
+    <vraagstelling>Wat doe je NIET als je paard zich in de wei niet laat vangen?</vraagstelling>
+    <antwoord id="a" score="1">Hem straffen als je hem eindelijk te pakken hebt</antwoord>
+    <antwoord id="b" score="0">Hem belonen als je hem eindelijk te pakken hebt</antwoord>
+    <antwoord id="c" score="0">Af en toe de wei ingaan zonder hem te pakken</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>54</pagina>
+    <regel>30</regel>
+    <afbeelding>R_000_94</afbeelding>
+  </vraag>
+  <vraag id="27" nrant="3">
+    <vraagstelling>Op welk moment moet je een paard straffen?</vraagstelling>
+    <antwoord id="a" score="1">Direct als hij iets verkeerd heeft gedaan</antwoord>
+    <antwoord id="b" score="0">Als hij zich in de wei niet heeft laten vangen</antwoord>
+    <antwoord id="c" score="0">Eerst even goed nadenken en als het paard weer rustig is straffen</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>15</pagina>
+    <regel>15</regel>
+    <afbeelding>R_000_02</afbeelding>
+  </vraag>
+  <vraag id="28" nrant="3">
+    <vraagstelling>Welke bewering is juist?</vraagstelling>
+    <antwoord id="a" score="1">Een paard kan erg goed horen</antwoord>
+    <antwoord id="b" score="0">Het gezichtsvermogen van een paard is het best ontwikkeld</antwoord>
+    <antwoord id="c" score="0">Als een paard aan een vreemd voorwerp ruikt, gebruikt hij zijn tastharen niet</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>14</pagina>
+    <regel>31</regel>
+    <afbeelding>R_000_01</afbeelding>
+  </vraag>
+  <vraag id="29" nrant="3">
+    <vraagstelling>Waar zegt de aanduiding volbloed, warmbloed en koudbloed iets over?</vraagstelling>
+    <antwoord id="a" score="1">Over het temperament van een paard</antwoord>
+    <antwoord id="b" score="0">Over het uiterlijk van een paard</antwoord>
+    <antwoord id="c" score="0">Over de snelheid waarmee zijn bloed stroomt</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>15</pagina>
+    <regel>26</regel>
+    <afbeelding>R_888_13</afbeelding>
+  </vraag>
+  <vraag id="30" nrant="3">
+    <vraagstelling>Van wie zijn dit de tanden?</vraagstelling>
+    <antwoord id="a" score="1">Van een oud paard</antwoord>
+    <antwoord id="b" score="0">Van een veulen</antwoord>
+    <antwoord id="c" score="0">Van een ezel</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>19</pagina>
+    <regel>50</regel>
+    <afbeelding>R_999_44</afbeelding>
+  </vraag>
+  <vraag id="31" nrant="3">
+    <vraagstelling>Wat is het verschil tussen een schimmel en een wit paard?</vraagstelling>
+    <antwoord id="a" score="1">Een wit paard wordt wit geboren, een schimmel wordt donker geboren.</antwoord>
+    <antwoord id="b" score="0">Een wit paard is een goed gewassen schimmel.</antwoord>
+    <antwoord id="c" score="0">Een wit paard is altijd een albino, een schimmel soms</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>20</pagina>
+    <regel>50</regel>
+    <afbeelding>K_018_01</afbeelding>
+  </vraag>
+  <vraag id="32" nrant="3">
+    <vraagstelling>Hoe noem je deze aftekening?</vraagstelling>
+    <antwoord id="a" score="1">Een druipkol</antwoord>
+    <antwoord id="b" score="0">Een bles</antwoord>
+    <antwoord id="c" score="0">Een snebje</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>21</pagina>
+    <regel>25</regel>
+    <afbeelding>K_021_04</afbeelding>
+  </vraag>
+  <vraag id="33" nrant="3">
+    <vraagstelling>Een witte aftekening, de boven- onderlip en neusgaten omvattend bij een paard heet:</vraagstelling>
+    <antwoord id="a" score="1">Melkmuil</antwoord>
+    <antwoord id="b" score="0">Bles</antwoord>
+    <antwoord id="c" score="0">Witneus</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>22</pagina>
+    <regel>31</regel>
+    <afbeelding>R_000_93</afbeelding>
+  </vraag>
+  <vraag id="34" nrant="3">
+    <vraagstelling>Wat is een gestrekte stand van de voorbenen?</vraagstelling>
+    <antwoord id="a" score="1">De voorbenen staan naar voren, voor de loodlijn</antwoord>
+    <antwoord id="b" score="0">De benen staan ver onder de buik, achter de loodlijn</antwoord>
+    <antwoord id="c" score="0">De hoek met de koot is bijna recht</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>24</pagina>
+    <regel>40</regel>
+    <afbeelding>R_888_10</afbeelding>
+  </vraag>
+  <vraag id="35" nrant="3">
+    <vraagstelling>Wat zijn de onderdelen van een hoefnagel?</vraagstelling>
+    <antwoord id="a" score="1">Kop, kling en zwik</antwoord>
+    <antwoord id="b" score="0">Toon, tak, rits</antwoord>
+    <antwoord id="c" score="0">Spijker en kop</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>35</pagina>
+    <regel>15</regel>
+    <afbeelding>R_000_51</afbeelding>
+  </vraag>
+  <vraag id="36" nrant="3">
+    <vraagstelling>Wat is sabelbenig?</vraagstelling>
+    <antwoord id="a" score="1">De hoek van het spronggewricht is kleiner dan 150-160 graden</antwoord>
+    <antwoord id="b" score="0">Een afwijking in de rug van het paard</antwoord>
+    <antwoord id="c" score="0">Een hele lichte kleur van de onderbenen</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>26</pagina>
+    <regel>40</regel>
+    <afbeelding>R_000_81</afbeelding>
+  </vraag>
+  <vraag id="37" nrant="3">
+    <vraagstelling>Wat is goed voor de hoef van een paard?</vraagstelling>
+    <antwoord id="a" score="1">Doelmatige voeding en regelmatig beweging</antwoord>
+    <antwoord id="b" score="0">Goed kort vijlen en wekelijks teren</antwoord>
+    <antwoord id="c" score="0">Iedere 4 maanden naar de hoefsmid</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>32</pagina>
+    <regel>10</regel>
+    <afbeelding>R_888_19</afbeelding>
+  </vraag>
+  <vraag id="38" nrant="3">
+    <vraagstelling>Hoe ontstaat een legger?</vraagstelling>
+    <antwoord id="a" score="1">Door steeds optredende kneuzingen bij de elleboog, bijvoorbeeld door het ijzer</antwoord>
+    <antwoord id="b" score="0">Door een insectenbeet, waarbij een ontsteking onder de huid ontstaat</antwoord>
+    <antwoord id="c" score="0">Door een niet  goed passend bit</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>27</pagina>
+    <regel>43</regel>
+    <afbeelding>R_000_51</afbeelding>
+  </vraag>
+  <vraag id="39" nrant="3">
+    <vraagstelling>Waarvoor dienen eiwitten in de voeding voornamelijk?</vraagstelling>
+    <antwoord id="a" score="1">Voor de groei van spieren, bloed en organen</antwoord>
+    <antwoord id="b" score="0">Voor energie, om arbeid te verrichten</antwoord>
+    <antwoord id="c" score="0">Als reserve voor sobere tijden</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>36</pagina>
+    <regel>49</regel>
+    <afbeelding>R_888_25</afbeelding>
+  </vraag>
+  <vraag id="40" nrant="3">
+    <vraagstelling>Waarom kun je voer beter achter slot en grendel bewaren in plaats van bijvoorbeeld in de stalgang?</vraagstelling>
+    <antwoord id="a" score="1">Paarden zijn sterren in het uitbreken en ze zullen zich ziek eten</antwoord>
+    <antwoord id="b" score="0">In de stalgang wordt het voer vochtig en gaat schimmelen</antwoord>
+    <antwoord id="c" score="0">Iedereen kan dan voer aan de paarden geven, daar worden ze lastig van</antwoord>
+    <motivatie>Het is uiteraard vervelend als iedereen de paarden een handje vol voer geeft. Het wordt echter gevaarlijk als een paard onbeperkt bij het voer kan. Hij voelt immers niet wanneer hij genoeg gehad heeft, en eet zich letterlijk dood.</motivatie>
+    <pagina>36</pagina>
+    <regel>15</regel>
+    <afbeelding>R_888_25</afbeelding>
+  </vraag>
+  <vraag id="41" nrant="3">
+    <vraagstelling>Hoe bestrijd je wormen bij het paard?</vraagstelling>
+    <antwoord id="a" score="1">Schone wei en stal en regelmatig ontwormen</antwoord>
+    <antwoord id="b" score="0">Schoon voer en vers water geven, borstelen en hoeven uitkrabben</antwoord>
+    <antwoord id="c" score="0">Iedere maand het gras in de wei maaien</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>43</pagina>
+    <regel>14</regel>
+    <afbeelding>R_888_20</afbeelding>
+  </vraag>
+  <vraag id="42" nrant="3">
+    <vraagstelling>Wat is een gal?</vraagstelling>
+    <antwoord id="a" score="1">Een zacht beengebrek</antwoord>
+    <antwoord id="b" score="0">Een hard beengebrek</antwoord>
+    <antwoord id="c" score="0">Een allergische reactie</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>27</pagina>
+    <regel>33</regel>
+    <afbeelding>R_888_15</afbeelding>
+  </vraag>
+  <vraag id="43" nrant="3">
+    <vraagstelling>Noem de onderdelen van de hoef.</vraagstelling>
+    <antwoord id="a" score="1">Verzenen, straal, hoornwand, kroonrand, ballen</antwoord>
+    <antwoord id="b" score="0">Kogel, draagrand, witte lijn, nagel, hoornwand</antwoord>
+    <antwoord id="c" score="0">Straal, hoefwand, pijpbeen, toon, kroonrand</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>34</pagina>
+    <regel>30</regel>
+    <afbeelding>R_888_01</afbeelding>
+  </vraag>
+  <vraag id="44" nrant="3">
+    <vraagstelling>Wat zijn kalkoenen?</vraagstelling>
+    <antwoord id="a" score="1">Stiften die in het hoefijzer gezet kunnen worden</antwoord>
+    <antwoord id="b" score="0">Haken op de kiezen</antwoord>
+    <antwoord id="c" score="0">Ringen van de martingaal</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>35</pagina>
+    <regel>46</regel>
+    <afbeelding>R_000_17</afbeelding>
+  </vraag>
+  <vraag id="45" nrant="3">
+    <vraagstelling>Wat is de juiste volgorde van hoofd naar staart?</vraagstelling>
+    <antwoord id="a" score="1">Nek, hals, schoft, rug, lendenen, kruis, staart</antwoord>
+    <antwoord id="b" score="0">Nek, hals, rug, schoft, lendenen, staart</antwoord>
+    <antwoord id="c" score="0">Hals, nek, rug, heup, lendenen, staart</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>12</pagina>
+    <regel>20</regel>
+    <afbeelding>R_000_92</afbeelding>
+  </vraag>
+  <vraag id="46" nrant="3">
+    <vraagstelling>Waar zit de elleboog bij een paard?</vraagstelling>
+    <antwoord id="a" score="1">Tussen het voorbeen en de romp</antwoord>
+    <antwoord id="b" score="0">Tussen de pijp en de koot</antwoord>
+    <antwoord id="c" score="0">Tussen de lies en het achterbeen</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>12</pagina>
+    <regel>20</regel>
+    <afbeelding>R_888_15</afbeelding>
+  </vraag>
+  <vraag id="47" nrant="3">
+    <vraagstelling>Welk van de onderstaande paarden heeft extra krachtvoer nodig?</vraagstelling>
+    <antwoord id="a" score="1">Een drachtige merrie</antwoord>
+    <antwoord id="b" score="0">Een hengst op rustdag</antwoord>
+    <antwoord id="c" score="0">Een ruin met koliek</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>36</pagina>
+    <regel>35</regel>
+    <afbeelding>R_888_09</afbeelding>
+  </vraag>
+  <vraag id="48" nrant="3">
+    <vraagstelling>Hoe vaak moet je een paard te eten geven?</vraagstelling>
+    <antwoord id="a" score="1">Liefst vier maal per dag</antwoord>
+    <antwoord id="b" score="0">Tweemaal per dag</antwoord>
+    <antwoord id="c" score="0">Eenmaal per dag</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>36</pagina>
+    <regel>15</regel>
+    <afbeelding>R_888_29</afbeelding>
+  </vraag>
+  <vraag id="49" nrant="3">
+    <vraagstelling>Hoeveel emmers water van 10 liter drinkt een paard op een gewone, niet te hete dag?</vraagstelling>
+    <antwoord id="a" score="1">2  tot 5 emmers</antwoord>
+    <antwoord id="b" score="0">5  tot 10 emmers</antwoord>
+    <antwoord id="c" score="0">0.5  tot 2 emmers</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>38</pagina>
+    <regel>36</regel>
+    <afbeelding>R_000_03</afbeelding>
+  </vraag>
+  <vraag id="50" nrant="3">
+    <vraagstelling>Waaraan kun je zien dat een paard zich niet goed voelt?</vraagstelling>
+    <antwoord id="a" score="1">Hij gedraagt zich anders dan gewoonlijk en eet slecht</antwoord>
+    <antwoord id="b" score="0">Hij gaat stil en uitgestrekt liggen met zijn ogen dicht</antwoord>
+    <antwoord id="c" score="0">Dat kun je niet zien, dan moet je zijn temperatuur eerst opnemen</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>45</pagina>
+    <regel>9</regel>
+    <afbeelding>R_000_01</afbeelding>
+  </vraag>
+  <vraag id="51" nrant="3">
+    <vraagstelling>Wat doe je als tijdens een rit het paard plotseling kreupel is?</vraagstelling>
+    <antwoord id="a" score="1">Je stapt direct af en bekijkt hoef en ijzer op ongerechtigheden</antwoord>
+    <antwoord id="b" score="0">Je gaat zo snel mogelijk in draf naar huis</antwoord>
+    <antwoord id="c" score="0">Je blijft even rustig stappen, misschiet gaat het vanzelf over</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>51</pagina>
+    <regel>26</regel>
+    <afbeelding>R_000_04</afbeelding>
+  </vraag>
+  <vraag id="52" nrant="3">
+    <vraagstelling>Wat is een hazehak?</vraagstelling>
+    <antwoord id="a" score="1">Een dikke hak, ongeveer een handbreedte onder de punt van de hak</antwoord>
+    <antwoord id="b" score="0">Een rek dat de hoefsmid gebruikt</antwoord>
+    <antwoord id="c" score="0">Een verkeerde stand van het been na een ongeval</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>19</pagina>
+    <regel>18</regel>
+    <afbeelding>R_888_17</afbeelding>
+  </vraag>
+  <vraag id="53" nrant="3">
+    <vraagstelling>Wat is hoefkatrol?</vraagstelling>
+    <antwoord id="a" score="1">Een verzamelnaam voor het straalbeen, het gedeelte van de pees van de hoefbeenbuiger dat over het straalbeen loopt, en de slijmbeurs</antwoord>
+    <antwoord id="b" score="0">Kanker aan de straal van de hoef</antwoord>
+    <antwoord id="c" score="0">Een hulpmiddel van de hoefsmid om de hoef op te tillen</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>29</pagina>
+    <regel>28</regel>
+    <afbeelding>R_000_81</afbeelding>
+  </vraag>
+  <vraag id="54" nrant="3">
+    <vraagstelling>Wat is de eerste reactie van een paard als hij gevaar ziet?</vraagstelling>
+    <antwoord id="a" score="1">Vluchten</antwoord>
+    <antwoord id="b" score="0">In elkaar duiken</antwoord>
+    <antwoord id="c" score="0">Hinniken, steigeren en met de voorbenen aanvallen</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>9</pagina>
+    <regel>8</regel>
+    <afbeelding>R_888_23</afbeelding>
+  </vraag>
+  <vraag id="55" nrant="3">
+    <vraagstelling>Wat is het nadeel van een hooggeplaatst hooinet of ruif?</vraagstelling>
+    <antwoord id="a" score="1">Het paard krijgt stof in zijn ogen en neus</antwoord>
+    <antwoord id="b" score="0">Het paard moet meer moeite doen om te kunnen eten</antwoord>
+    <antwoord id="c" score="0">Het is erg veel werk om het hooi erin te krijgen</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>40</pagina>
+    <regel>29</regel>
+    <afbeelding>R_000_84</afbeelding>
+  </vraag>
+  <vraag id="56" nrant="3">
+    <vraagstelling>Wat is onderhoudsvoer?</vraagstelling>
+    <antwoord id="a" score="1">De hoeveelheid voer die voldoende in om te kunnen leven</antwoord>
+    <antwoord id="b" score="0">Voer dat goedkoper is dan paardenbrokken</antwoord>
+    <antwoord id="c" score="0">Het voer dat een merrie nodig heeft om haar veulen melk te kunnen geven</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>38</pagina>
+    <regel>2</regel>
+    <afbeelding>R_888_25</afbeelding>
+  </vraag>
+  <vraag id="57" nrant="3">
+    <vraagstelling>Hoe hoog moet de voerbak geplaatst zijn?</vraagstelling>
+    <antwoord id="a" score="1">Op borsthoogte, dan kan hij er niet instappen en toch redelijk natuurlijk eten</antwoord>
+    <antwoord id="b" score="0">Op de grond, want dat is de meest natuurlijke houding om te eten</antwoord>
+    <antwoord id="c" score="0">Zo hoog mogelijk, anders stapt hij er met een voorbeen in</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>40</pagina>
+    <regel>25</regel>
+    <afbeelding>R_888_29</afbeelding>
+  </vraag>
+  <vraag id="58" nrant="3">
+    <vraagstelling>Wat is de belangrijkste taak van voeding?</vraagstelling>
+    <antwoord id="a" score="1">Levering van energie</antwoord>
+    <antwoord id="b" score="0">Stillen van honger</antwoord>
+    <antwoord id="c" score="0">Tegengaan van verveling</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>36</pagina>
+    <regel>31</regel>
+    <afbeelding>R_888_29</afbeelding>
+  </vraag>
+  <vraag id="59" nrant="3">
+    <vraagstelling>Wat gebeurt er met de energie die overblijft als een paard teveel eet?</vraagstelling>
+    <antwoord id="a" score="1">Die wordt omgezet in vet onder de huid en rond de organen</antwoord>
+    <antwoord id="b" score="0">Die komt er als mest weer uit</antwoord>
+    <antwoord id="c" score="0">Die wordt omgezet in meer lichaamswarmte</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>36</pagina>
+    <regel>42</regel>
+    <afbeelding>R_888_31</afbeelding>
+  </vraag>
+  <vraag id="60" nrant="3">
+    <vraagstelling>Waarom moet je een paard dat veel buitenloopt niet grondig poetsen, maar alleen ontdoen van zand en mestvlekken?</vraagstelling>
+    <antwoord id="a" score="1">De vacht beschermt tegen kou en regen. Met grondig poetsen haal je die beschermlaag weg</antwoord>
+    <antwoord id="b" score="0">Hij wordt toch gelijk weer vies als hij de wei ingaat</antwoord>
+    <antwoord id="c" score="0">Paarden die buitenlopen houden niet van al die poespas</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>31</pagina>
+    <regel>5</regel>
+    <afbeelding>R_888_31</afbeelding>
+  </vraag>
+  <vraag id="61" nrant="3">
+    <vraagstelling>Hoe lang voor het werken voer je een paard voor het laatst?</vraagstelling>
+    <antwoord id="a" score="1">Ongeveer een tot anderhalf uur, dan is het eten op tijd gezakt</antwoord>
+    <antwoord id="b" score="0">Je moet helemaal niet voeren voor het paard gaat werken</antwoord>
+    <antwoord id="c" score="0">Zo kort mogelijk voor het werken, en liefst wat extra's</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>133</pagina>
+    <regel>15</regel>
+    <afbeelding>R_000_84</afbeelding>
+  </vraag>
+  <vraag id="62" nrant="3">
+    <vraagstelling>Hoe voorkom je rotstraal?</vraagstelling>
+    <antwoord id="a" score="1">Schone stal, 1x daags hoeven krabben</antwoord>
+    <antwoord id="b" score="0">Iedere dag hoeven teren</antwoord>
+    <antwoord id="c" score="0">Helaas, het is niet te voorkomen</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>32</pagina>
+    <regel>36</regel>
+    <afbeelding>R_000_08</afbeelding>
+  </vraag>
+  <vraag id="63" nrant="3">
+    <vraagstelling>Om de hoeveel tijd moet een paard bekapt of beslagen worden?</vraagstelling>
+    <antwoord id="a" score="1">Iedere 5 tot 8 weken</antwoord>
+    <antwoord id="b" score="0">Alleen als een ijzer loszit, of de hoef inscheurt</antwoord>
+    <antwoord id="c" score="0">Iedere 4 maanden</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>32</pagina>
+    <regel>18</regel>
+    <afbeelding>R_888_16</afbeelding>
+  </vraag>
+  <vraag id="64" nrant="3">
+    <vraagstelling>Hoe houdt een paard warmte vast, of hoe zorgt hij dat hij het niet koud krijgt? Zijn haren gaan overeind staan doordat</vraagstelling>
+    <antwoord id="a" score="1">de bloedvaten in de huid zich vernauwen</antwoord>
+    <antwoord id="b" score="0">de bloedvaten in de huid zich verwijden</antwoord>
+    <antwoord id="c" score="0">het hart sneller gaat kloppen</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>30</pagina>
+    <regel>1</regel>
+    <afbeelding>R_888_24</afbeelding>
+  </vraag>
+  <vraag id="65" nrant="3">
+    <vraagstelling>Wat is een nadeel van het scheren van een paard?</vraagstelling>
+    <antwoord id="a" score="1">Het paard vat eerder kou als hij tijdens een rit stil moet staan.</antwoord>
+    <antwoord id="b" score="0">Het paard krijgt jeuk als de haren weer aangroeien</antwoord>
+    <antwoord id="c" score="0">Het paard wordt sneller vies en is moeilijker te poetsen na het scheren</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>31</pagina>
+    <regel>48</regel>
+    <afbeelding>R_000_05</afbeelding>
+  </vraag>
+  <vraag id="66" nrant="3">
+    <vraagstelling>Waarom moet een paard meerdere malen per dag eten?</vraagstelling>
+    <antwoord id="a" score="1">Daar is zijn spijsverteringskanaal op ingesteld</antwoord>
+    <antwoord id="b" score="0">Anders verveelt hij zich</antwoord>
+    <antwoord id="c" score="0">Een paard hoeft niet meerdere malen per dag te eten</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>36</pagina>
+    <regel>14</regel>
+    <afbeelding>R_000_34</afbeelding>
+  </vraag>
+  <vraag id="67" nrant="3">
+    <vraagstelling>Wat is juist?</vraagstelling>
+    <antwoord id="a" score="1">Een steile koot is sterk, maar geeft geen schokbreking</antwoord>
+    <antwoord id="b" score="0">Een weke koot is sterk en geeft grote soepelheid</antwoord>
+    <antwoord id="c" score="0">Bij vierkant staan vormen de hoeven een vierkant op de grond</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>25</pagina>
+    <regel>5</regel>
+    <afbeelding>R_000_06</afbeelding>
+  </vraag>
+  <vraag id="68" nrant="3">
+    <vraagstelling>Wat is onder andere de functie van de huid?</vraagstelling>
+    <antwoord id="a" score="1">Gevoelsorgaan, bescherming, regelen van temperatuur van het lichaam</antwoord>
+    <antwoord id="b" score="0">Het maakt dat het paard zich soepel kan bewegen</antwoord>
+    <antwoord id="c" score="0">Paarden herkennen elkaar aan het uiterlijk</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>30</pagina>
+    <regel>5</regel>
+    <afbeelding>R_888_32</afbeelding>
+  </vraag>
+  <vraag id="69" nrant="3">
+    <vraagstelling>Wat zijn de voordelen van het hoefijzer?</vraagstelling>
+    <antwoord id="a" score="1">Voorkomen van slijtage, de stand is te corrigeren</antwoord>
+    <antwoord id="b" score="0">Beter hoefmechanisme, paard kan zich verdedigen</antwoord>
+    <antwoord id="c" score="0">Goedkoop en het paard glijdt minder snel uit</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>34</pagina>
+    <regel>45</regel>
+    <afbeelding>R_000_07</afbeelding>
+  </vraag>
+  <vraag id="70" nrant="3">
+    <vraagstelling>Waarvan hangt de hoeveelheid voer af die je een paard geeft?</vraagstelling>
+    <antwoord id="a" score="1">Hoe groot hij is, hoeveel hij werkt en of ze drachtig is</antwoord>
+    <antwoord id="b" score="0">Hoeveel honger hij heeft</antwoord>
+    <antwoord id="c" score="0">Hoeveel geld je kunt besteden</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>36</pagina>
+    <regel>35</regel>
+    <afbeelding>R_888_12</afbeelding>
+  </vraag>
+  <vraag id="71" nrant="3">
+    <vraagstelling>Waarom moet ieder paard zijn eigen poetsspullen hebben?</vraagstelling>
+    <antwoord id="a" score="1">Om bij eventuele huidaandoeningen elkaar niet te besmetten</antwoord>
+    <antwoord id="b" score="0">Anders grijp je steeds mis als je een borstel wil pakken</antwoord>
+    <antwoord id="c" score="0">De borstels worden erg vies als je er alle paarden mee poetst</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>41</pagina>
+    <regel>6</regel>
+    <afbeelding>R_888_37</afbeelding>
+  </vraag>
+  <vraag id="72" nrant="3">
+    <vraagstelling>Hoe is de cyclus van kleine maagdarmwormen?</vraagstelling>
+    <antwoord id="a" score="1">Volwassen worm in maag en darmen, eieren in de mest, larve op het gras</antwoord>
+    <antwoord id="b" score="0">Ei, worm, vlieg, huid van het paard, bloed, darmen</antwoord>
+    <antwoord id="c" score="0">Vlieg, ei, maag- en darmstelsel, worm in de mest</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>43</pagina>
+    <regel>34</regel>
+    <afbeelding>R_888_36</afbeelding>
+  </vraag>
+  <vraag id="73" nrant="3">
+    <vraagstelling>Hoe snel klopt het hart van een paard in rust?</vraagstelling>
+    <antwoord id="a" score="1">25 tot 40 keer per minuut</antwoord>
+    <antwoord id="b" score="0">60 tot 80 keer per minuut</antwoord>
+    <antwoord id="c" score="0">100 tot 120 keer per minuut</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>45</pagina>
+    <regel>15</regel>
+    <afbeelding>R_000_76</afbeelding>
+  </vraag>
+  <vraag id="74" nrant="3">
+    <vraagstelling>Wat is influenza en hoe voorkom je het?</vraagstelling>
+    <antwoord id="a" score="1">Griep, inenten</antwoord>
+    <antwoord id="b" score="0">Rotstraal, iedere dag teren</antwoord>
+    <antwoord id="c" score="0">Wondinfectie, wond goed schoonmaken</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>46</pagina>
+    <regel>8</regel>
+    <afbeelding>R_000_17</afbeelding>
+  </vraag>
+  <vraag id="75" nrant="3">
+    <vraagstelling>Hoe kun je koliek voorkomen?</vraagstelling>
+    <antwoord id="a" score="1">Voldoende beweging, wormbestrijding, niet vlak voor het rijden voeren</antwoord>
+    <antwoord id="b" score="0">Paard 's nachts een deken opdoen</antwoord>
+    <antwoord id="c" score="0">Voldoende vers, koud water geven, minstens 4x per dag</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>48</pagina>
+    <regel>40</regel>
+    <afbeelding>R_000_81</afbeelding>
+  </vraag>
+  <vraag id="76" nrant="3">
+    <vraagstelling>Hoe ontstaan haken op de kiezen en wat doe je eraan?</vraagstelling>
+    <antwoord id="a" score="1">Kies van de bovenkaak slijt niet precies op de kies van de onderkaak. Behandelen door de haken af te vijlen</antwoord>
+    <antwoord id="b" score="0">Verkeerd voedsel, kiezen laten trekken</antwoord>
+    <antwoord id="c" score="0">Verkeerd bit, slobber voeren in plaats van biks</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>51</pagina>
+    <regel>21</regel>
+    <afbeelding>R_888_06</afbeelding>
+  </vraag>
+  <vraag id="77" nrant="3">
+    <vraagstelling>Wat zijn vaak de oorzaken als een paard boosaardig is?</vraagstelling>
+    <antwoord id="a" score="1">Onjuiste opvoeding, angst en pijn</antwoord>
+    <antwoord id="b" score="0">Een consequente opvoeding</antwoord>
+    <antwoord id="c" score="0">Te weinig hooi en teveel biks</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>53</pagina>
+    <regel>35</regel>
+    <afbeelding>R_999_26</afbeelding>
+  </vraag>
+  <vraag id="78" nrant="3">
+    <vraagstelling>Wat is het nadeel van afwijkende beenstanden?</vraagstelling>
+    <antwoord id="a" score="1">Extra slijtage van banden en gewrichten</antwoord>
+    <antwoord id="b" score="0">Ze tasten het karakter aan</antwoord>
+    <antwoord id="c" score="0">Het paard loopt niet lekker en is gauw moe</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>25</pagina>
+    <regel>11</regel>
+    <afbeelding>R_888_10</afbeelding>
+  </vraag>
+  <vraag id="79" nrant="3">
+    <vraagstelling>Waar kan het paard slecht tegen?</vraagstelling>
+    <antwoord id="a" score="1">Tocht, vocht en stof</antwoord>
+    <antwoord id="b" score="0">Sneeuw en hagel</antwoord>
+    <antwoord id="c" score="0">Warmte, zon en droogte</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>38</pagina>
+    <regel>48</regel>
+    <afbeelding>R_888_24</afbeelding>
+  </vraag>
+  <vraag id="80" nrant="3">
+    <vraagstelling>Hoe groot moet een paardenstal minimaal zijn?</vraagstelling>
+    <antwoord id="a" score="1">De lengte en breedte van de stal ieder 2x de schofthoogte van het paard</antwoord>
+    <antwoord id="b" score="0">2,5 bij 2,5 meter</antwoord>
+    <antwoord id="c" score="0">Alleen de hoogte is belangrijk en wel ongeveer 3 meter</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>40</pagina>
+    <regel>8</regel>
+    <afbeelding>R_000_34</afbeelding>
+  </vraag>
+  <vraag id="81" nrant="3">
+    <vraagstelling>Wat hoort bij het signalement van een paard?</vraagstelling>
+    <antwoord id="a" score="1">Geslacht, stokmaat, ras, leeftijd, kleur en aftekeningen</antwoord>
+    <antwoord id="b" score="0">Wat het paard allemaal kan, hoeveel hij eet, het karakter</antwoord>
+    <antwoord id="c" score="0">Schoft, manen, elleboog, knie, sprong</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>19</pagina>
+    <regel>1</regel>
+    <afbeelding>R_000_95</afbeelding>
+  </vraag>
+  <vraag id="82" nrant="3">
+    <vraagstelling>Wat verstaan we onder een gal bij het paard?</vraagstelling>
+    <antwoord id="a" score="1">Een zacht beengebrek, een vochtophoping</antwoord>
+    <antwoord id="b" score="0">Een afwijking van het maagzuur</antwoord>
+    <antwoord id="c" score="0">Een hard beengebrek</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>27</pagina>
+    <regel>36</regel>
+    <afbeelding>R_000_06</afbeelding>
+  </vraag>
+  <vraag id="83" nrant="3">
+    <vraagstelling>Je bent op vakantie met je paard. 's Nachts staat hij in een stand op stal. Waarmee zet je hem veilig vast?</vraagstelling>
+    <antwoord id="a" score="1">Halster, touw met contragewicht door een ring aan de muur</antwoord>
+    <antwoord id="b" score="0">Halster, lang touw, paardenknoop</antwoord>
+    <antwoord id="c" score="0">Halsband, kort touw, ketting achter zijn billen</antwoord>
+    <motivatie>.</motivatie>
+    <pagina>39</pagina>
+    <regel>13</regel>
+    <afbeelding>R_888_34</afbeelding>
+  </vraag>
+</hoofdstuk>
