@@ -20,31 +20,31 @@ class Antwoord(val id : String, val score : Int, val antwoord : String)
 class Vraag(val id : Int, val vraag : String, val afbeelding : String, val boek : Boek)
 class MultipleChoiceVraag(override val id : Int, override val vraag : String, override val afbeelding : String, val antwoorden : Map[String, Antwoord], override val boek : Boek) extends Vraag(id, vraag, afbeelding, boek)
 class OpenVraag(override val id : Int, override val vraag : String, override val afbeelding : String, override val boek : Boek) extends Vraag(id, vraag, afbeelding, boek)
-class Examen(val naam : String, val vragen : List[Vraag])
+class Examen(val naam : String, val vragen : List[MultipleChoiceVraag])
 class Hoofdstuk(val naam : String, val vragen : List[Vraag])
 class Score(val score : Int, val foutBeantwoord : List[Vraag])
 
 object Examen {
   def parse (examen : Elem) = {
-    val vragen = (examen \\ "vraag").map(Vraag.parse(_))
+    val vragen = (examen \\ "vraag").map(Vraag.parseMC(_))
     new Examen(examen.child.toList.head.text, vragen.toList)
   }
 }
 
 object Vraag {
-  def parse (vraag : Node) : Vraag = {
+  def parseMC(vraag : Node) : MultipleChoiceVraag = {
     val id = (vraag \ "@id").text.toInt
     val vraagStelling = (vraag \ "vraagstelling").text
     val afbeelding = (vraag \ "afbeelding").text
     val boek = new Boek((vraag \ "pagina").text.toInt, (vraag \ "regel").text.toInt)
-    if (vraag \ "@nrant" != NodeSeq.Empty) {
+//    if (vraag \ "@nrant" != NodeSeq.Empty) {
       // MultipleChoiceVraag
       val antwoorden = (vraag \ "antwoord").map(Antwoord.parse(_)).foldLeft(Map[String, Antwoord]()) {(m, a) => m(a.id) = a}
       new MultipleChoiceVraag(id, vraagStelling, afbeelding, antwoorden, boek)
-    } else {
-      // OpenVraag
-      new OpenVraag(id, vraagStelling, afbeelding, boek)
-    }
+//    } else {
+//      // OpenVraag
+//      new OpenVraag(id, vraagStelling, afbeelding, boek)
+//    }
   }
 }
 
@@ -81,7 +81,7 @@ object ExamenActor extends Actor {
               }
               case None => 0
             }
-            case _ => 0
+//            case _ => 0
           }).reduceLeft(_+_)
           println(score)
           reply(new Score(score, fouten))

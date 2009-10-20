@@ -16,7 +16,8 @@ class Boot {
     LiftRules.addToPackages("nl.javadude.koetsier")     
 
     // Build SiteMap
-    val entries = Menu(Loc("Home", List("index"), "Home")) :: Nil
+    val entries = Menu(Loc("Home", List("index"), "Home")) ::
+            Menu(Loc("Examen", List("examen"), "Examen")) :: Nil
     LiftRules.setSiteMap(SiteMap(entries:_*))
   }
 }

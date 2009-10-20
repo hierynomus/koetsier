@@ -26,7 +26,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/resources" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="1.6" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="Maven: org.scala-lang:scala-library:2.7.5" level="project" />
     <orderEntry type="library" exported="" name="Maven: net.liftweb:lift-util:1.1-M4" level="project" />

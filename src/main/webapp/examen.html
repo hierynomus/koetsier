@@ -1,3 +1,14 @@
 <lift:surround with="default" at="content">
-    <h1>Examen</h1>
+    <lift:display_examen.display form="post">
+        <h1>Examen: <e:naam /></h1>
+        <e:vragen>
+            <vraag:list>
+                <div>
+                    <span><h3><v:vraag /></h3></span>
+                    <v:antwoorden/>
+                </div>
+            </vraag:list>
+        </e:vragen>
+        <e:submit/>
+    </lift:display_examen.display>
 </lift:surround>
